@@ -31,10 +31,22 @@ screen.setup(width=600, height=600)
 tina = turtle.Turtle()
 
 set_turtle_image(tina, "boy_yellow.gif")
+ 
+tina.penup()
+tina.goto(305,-300)
+tina.pendown()
+tina.left (90) 
+tina.forward (600)                              # Move tina forward by the forward distance
 
-for i in range(4):
-    tina.forward (200)                              # Move tina forward by the forward distance
-    tina.left (90)  
+tina.left (90) 
+tina.forward (600)                              # Move tina forward by the forward distance
+
+tina.left (90) 
+tina.forward (600)                              # Move tina forward by the forward distance
+
+tina.left (90) 
+tina.forward (600)                              # Move tina forward by the forward distance
+
 
 
 tina.speed(3)
