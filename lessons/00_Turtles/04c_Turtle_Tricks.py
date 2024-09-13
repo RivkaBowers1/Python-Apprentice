@@ -25,7 +25,7 @@ tina.penup()
 
 tina.goto(-200,100)
 tina.pendown()
-tina.color('yellow')
+tina.color('blue')
 tina.begin_fill()
 tina.circle(50)
 tina.end_fill()

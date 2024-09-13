@@ -18,7 +18,7 @@ tina.pencolor('green')
 tina.forward(100)
 tina.left(72)
 
-tina.pencolor('orange')
+tina.pencolor('pink')
 tina.forward(100)
 tina.left(72)
 

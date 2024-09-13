@@ -43,7 +43,7 @@ tina.backward(20)                       # Move tina backward by 20
 
 tina.goto(-50,0)
 tina.pendown()
-tina.color('yellow')                       # Set the color of tina to red
+tina.color('blue')                       # Set the color of tina to red
 tina.begin_fill()
 tina.circle(101, steps=50)
 tina.end_fill()
